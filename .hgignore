@@ -1,0 +1,4 @@
+syntax: regexp
+^tests$
+^libcoro.dylib$
+
